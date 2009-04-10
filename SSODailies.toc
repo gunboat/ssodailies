@@ -8,4 +8,4 @@
 
 ## DefaultState: enabled
 
-Guides.xml
+SSODailies.xml
