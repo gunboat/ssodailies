@@ -1,0 +1,11 @@
+## Interface: 30000
+
+## Title: SSO Dailies for TourGuide
+## Version: 0.1
+## X-Category: Quest
+
+## RequiredDeps: TourGuide
+
+## DefaultState: enabled
+
+Guides.xml
